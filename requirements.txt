@@ -1,9 +1,6 @@
-# BIST Finansal Analiz Dashboard — Bağımlılıklar
-# Kurulum: pip install -r requirements.txt
-
 streamlit>=1.32.0
 yfinance>=0.2.36
 pandas>=2.0.0
-pandas-ta>=0.3.14b0
-plotly>=5.20.0
 numpy>=1.26.0
+plotly>=5.20.0
+pandas_ta>=0.3.14b0
